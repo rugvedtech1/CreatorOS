@@ -1,0 +1,26 @@
+{
+  "name": "instagram-creator-os",
+  "version": "1.0.0",
+  "description": "An AI Skill that turns Claude into a full Instagram growth team - strategist, researcher, scriptwriter, and community coach - for individual creators.",
+  "author": "rugved",
+  "license": "MIT",
+  "compatibility": [
+    "Claude (claude.ai, Claude Code, Claude Desktop)",
+    "Any Agent Skills-compatible AI system"
+  ],
+  "entry_point": "SKILL.md",
+  "structure": {
+    "engines": "Modular playbooks for specific tasks (scripts, trends, community, sponsorship, quality checks)",
+    "niches": "Niche-specific content strategy (tech, food, photography, writer, cinematic, general)",
+    "knowledge": "Reference knowledge on algorithm behavior, audience psychology, and copywriting",
+    "examples": "Worked examples showing the skill's output shape",
+    "ethics": "Non-negotiable safety guardrails against manipulative growth tactics"
+  },
+  "tags": [
+    "instagram",
+    "content-strategy",
+    "social-media",
+    "creator-economy",
+    "growth-marketing"
+  ]
+}
